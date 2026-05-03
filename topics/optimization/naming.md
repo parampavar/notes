@@ -1,12 +1,37 @@
-# 1. Don't abbreviate names
+# DON'T
+
+Don't use single letters.
 
 ```js
-function relScore(m1, m2) {}
+let x = 1;
+
+// vs
+
+let someValue = 1;
+```
+
+Don't abbreviate names.
+
+```js
+function mRelScore(m1, m2) {}
+
+// vs
 
 function movieRelationScore(movie1, movie2) {}
 ```
 
-# 2. Use Endiannes / Smurfing / Molds
+Don't put types in the name (Hungarian notation)
+
+```c
+bool bIsValid;
+int32_t iSpeed;
+uint32_t uNumUsers;
+char szUserName;
+```
+
+# DO
+
+Use Endiannes / Smurfing / Molds
 
 ```bash
 # big-endian = Most significant word FIRST
@@ -16,32 +41,17 @@ profitMonthlyMax
 maxMonthlyProfit
 ```
 
-# 3. Don't use single letters
+Add units to variables.
 
 ```js
-let x = 1;
-
-let someValue = 1;
-```
-
-# 4. Don't put types in the name (Hungarian notation)
-
-```c
-bool bIsValid;
-int32_t iSpeed;
-uint32_t uNumUsers;
-char szUserName;
-```
-
-# 5. Add units to variables.
-
-```js
-function execute(delay) {}
-
 function execute(delaySeconds) {}
+
+// vs
+
+function execute(delay) {}
 ```
 
-# 6. Refactor if you find yourself using `utils`.
+# Refactor if you find yourself using `utils`.
 
 ```js
 // utils.js
