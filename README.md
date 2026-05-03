@@ -412,3 +412,146 @@ Interruption 1
 Interruption 2
 
 ![Interruption 2](./pics/comics/interruption_2.png)
+
+# Innovation
+
+### Software
+
+| Year | Invention                                    | Inventor(s)                  |
+| ---: | -------------------------------------------- | ---------------------------- |
+| 1969 | UNIX (operating system)                      | Ken Thompson, Dennis Ritchie |
+| 1979 | VisiCalc (spreadsheet)                       | Dan Bricklin, Bob Frankston  |
+| 1983 | GNU Project (free software movement + tools) | Richard Stallman             |
+| 1985 | Windows 1.0                                  | Microsoft                    |
+| 1991 | Linux kernel                                 | Linus Torvalds               |
+| 1993 | Mosaic (web browser)                         | Marc Andreessen, Eric Bina   |
+| 1994 | Netscape Navigator                           | Netscape                     |
+| 1995 | Internet Explorer                            | Microsoft                    |
+| 1998 | Google Search                                | Google                       |
+| 2001 | Wikipedia                                    | Wikimedia Foundation         |
+| 2004 | Facebook                                     | Facebook                     |
+| 2005 | YouTube                                      | YouTube                      |
+| 2006 | Twitter                                      | Twitter                      |
+| 2008 | Google Chrome                                | Google                       |
+| 2008 | Android                                      | Google                       |
+| 2010 | Instagram                                    | Instagram                    |
+| 2011 | iOS (modern mobile OS maturity era)          | Apple                        |
+| 2014 | Docker                                       | Solomon Hykes                |
+| 2016 | Kubernetes                                   | Google                       |
+
+### Programming
+
+| Year | Invention                                | Inventor(s)                            |
+| ---: | ---------------------------------------- | -------------------------------------- |
+| 1947 | Assembly language                        | Kathleen Booth                         |
+| 1952 | Compiler                                 | Grace Hopper                           |
+| 1957 | FORTRAN                                  | John Backus                            |
+| 1958 | LISP                                     | John McCarthy                          |
+| 1959 | COBOL                                    | Grace Hopper and committee             |
+| 1964 | BASIC                                    | John Kemeny, Thomas Kurtz              |
+| 1969 | UNIX (programming environment influence) | Ken Thompson, Dennis Ritchie           |
+| 1970 | Pascal                                   | Niklaus Wirth                          |
+| 1972 | C programming language                   | Dennis Ritchie                         |
+| 1972 | Smalltalk (object-oriented programming)  | Alan Kay, Adele Goldberg, others       |
+| 1974 | SQL                                      | Donald D. Chamberlin, Raymond F. Boyce |
+| 1983 | C++                                      | Bjarne Stroustrup                      |
+| 1987 | Perl                                     | Larry Wall                             |
+| 1991 | Python                                   | Guido van Rossum                       |
+| 1995 | Java                                     | James Gosling                          |
+| 1995 | JavaScript                               | Brendan Eich                           |
+| 1995 | PHP                                      | Rasmus Lerdorf                         |
+| 2000 | C#                                       | Anders Hejlsberg                       |
+| 2009 | Go                                       | Google                                 |
+| 2014 | Swift                                    | Apple                                  |
+| 2014 | Rust                                     | Graydon Hoare                          |
+
+### Networking
+
+| Year | Invention                             | Inventor(s)                        |
+| ---: | ------------------------------------- | ---------------------------------- |
+| 1965 | Packet switching (concept)            | Paul Baran, Donald Davies          |
+| 1969 | ARPANET                               | Larry Roberts and team             |
+| 1971 | Network email                         | Ray Tomlinson                      |
+| 1973 | Ethernet                              | Robert Metcalfe                    |
+| 1974 | TCP/IP                                | Vint Cerf, Bob Kahn                |
+| 1978 | TCP/IP split into TCP and IP          | Vint Cerf, Jon Postel, Danny Cohen |
+| 1983 | Domain Name System (DNS)              | Paul Mockapetris                   |
+| 1988 | BGP (Border Gateway Protocol)         | Yakov Rekhter, Kirk Lougheed       |
+| 1989 | World Wide Web (infrastructure layer) | Tim Berners-Lee                    |
+| 1991 | HTTP                                  | Tim Berners-Lee                    |
+| 1995 | SSL                                   | Netscape                           |
+| 1999 | Wi-Fi (802.11b)                       | IEEE                               |
+| 2010 | 4G LTE                                | telecom industry consortiums       |
+| 2015 | HTTP/2                                | IETF                               |
+| 2018 | QUIC                                  | Google                             |
+| 2019 | 5G networks                           | telecom industry consortiums       |
+
+### Hardware
+
+| Year | Invention                                       | Inventor(s)                                     |
+| ---: | ----------------------------------------------- | ----------------------------------------------- |
+| 1801 | Jacquard punch-card control                     | Joseph Marie Jacquard                           |
+| 1822 | Difference Engine                               | Charles Babbage                                 |
+| 1837 | Analytical Engine                               | Charles Babbage                                 |
+| 1884 | Tabulating Machine                              | Herman Hollerith                                |
+| 1939 | Atanasoff–Berry Computer (ABC)                  | John Atanasoff, Clifford Berry                  |
+| 1941 | Z3 (programmable digital computer)              | Konrad Zuse                                     |
+| 1943 | Colossus                                        | Tommy Flowers                                   |
+| 1945 | ENIAC                                           | J. Presper Eckert, John Mauchly                 |
+| 1947 | Transistor                                      | John Bardeen, Walter Brattain, William Shockley |
+| 1948 | Manchester Baby (first stored-program computer) | Frederic C. Williams, Tom Kilburn               |
+| 1951 | UNIVAC I (first commercial computer)            | Eckert–Mauchly team                             |
+| 1956 | Hard Disk Drive (IBM 305 RAMAC)                 | IBM team                                        |
+| 1958 | Integrated Circuit                              | Jack Kilby, Robert Noyce                        |
+| 1963 | Computer mouse (prototype)                      | Douglas Engelbart                               |
+| 1965 | DRAM (dynamic random-access memory)             | Robert H. Dennard                               |
+| 1969 | CCD (charge-coupled device)                     | Willard Boyle, George E. Smith                  |
+| 1970 | EPROM (erasable programmable ROM)               | Dov Frohman                                     |
+| 1971 | Microprocessor (Intel 4004)                     | Ted Hoff, Federico Faggin, others               |
+| 1974 | 8080 microprocessor                             | Intel team                                      |
+| 1976 | Cray-1 supercomputer                            | Seymour Cray                                    |
+| 1977 | Apple II                                        | Apple                                           |
+| 1977 | TRS-80                                          | Tandy Corporation                               |
+| 1981 | IBM PC (mass-market personal computer)          | IBM team                                        |
+| 1982 | Commodore 64                                    | Commodore International                         |
+| 1984 | Macintosh                                       | Apple                                           |
+| 1985 | ARM architecture                                | Sophie Wilson, Steve Furber                     |
+| 1989 | Sound Blaster (PC sound card standard)          | Creative Technology                             |
+| 1991 | Lithium-ion battery (commercialization)         | Sony team                                       |
+| 1993 | Pentium processor                               | Intel                                           |
+| 1996 | USB (Universal Serial Bus)                      | Intel and partners                              |
+| 1998 | iMac                                            | Apple                                           |
+| 1999 | GeForce 256 (first GPU)                         | NVIDIA                                          |
+| 2000 | USB flash drive                                 | Dov Moran and others                            |
+| 2001 | iPod                                            | Apple                                           |
+| 2006 | Solid-state drive (modern SSD era)              | Samsung and others                              |
+| 2007 | iPhone                                          | Apple                                           |
+| 2010 | iPad                                            | Apple                                           |
+| 2016 | Tensor Processing Unit (TPU)                    | Google                                          |
+|      |
+
+### Theory
+
+| Year      | Invention                                                         | Inventor(s)                                       |
+| --------- | ----------------------------------------------------------------- | ------------------------------------------------- |
+| 1843      | First published computer algorithm                                | Ada Lovelace                                      |
+| 1854      | Boolean Algebra                                                   | George Boole                                      |
+| 1931      | Incompleteness Theorems                                           | Kurt Gödel                                        |
+| 1936      | Turing Machine                                                    | Alan Turing                                       |
+| 1936      | Lambda Calculus                                                   | Alonzo Church                                     |
+| 1945      | Stored-program architecture (von Neumann architecture)            | John von Neumann                                  |
+| 1948      | Information Theory                                                | Claude Shannon                                    |
+| 1956      | Artificial Intelligence (field formalization, Dartmouth workshop) | John McCarthy, Marvin Minsky, others              |
+| 1965      | Moore’s Law                                                       | Gordon Moore                                      |
+| 1967      | Dynamic Programming (formalization)                               | Richard Bellman                                   |
+| 1970      | Relational Database Model                                         | Edgar F. Codd                                     |
+| 1971      | NP-Completeness (Cook–Levin theorem)                              | Stephen Cook, Leonid Levin                        |
+| 1976      | Public-key cryptography                                           | Whitfield Diffie, Martin Hellman                  |
+| 1977      | RSA cryptosystem                                                  | Ron Rivest, Adi Shamir, Leonard Adleman           |
+| 1985      | Backpropagation (modern neural network training)                  | David Rumelhart, Geoffrey Hinton, Ronald Williams |
+| 1995      | Support Vector Machines                                           | Vladimir Vapnik, Corinna Cortes                   |
+| 2001      | Randomized Algorithms (modern framework)                          | Rajeev Motwani and others                         |
+| 2006–2012 | Deep learning breakthrough era                                    | Geoffrey Hinton, Yann LeCun, Yoshua Bengio        |
+| 2012      | AlexNet (deep CNN breakthrough)                                   | Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton  |
+| 2014      | GANs (Generative Adversarial Networks)                            | Ian Goodfellow                                    |
+| 2017      | Transformer architecture                                          | Google research team                              |
